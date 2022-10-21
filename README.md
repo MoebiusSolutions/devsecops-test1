@@ -30,6 +30,8 @@ on the branch the cadidate created.
 - __As the interviewer, after the interview is completed and the assessment has been graded.
 Make sure to delete all [branches](https://github.com/MoebiusSolutions/devsecops-test1/branches)
 except for `main`. This ensure branches cannot be cribbed off of.__
+- __Clean up your Gitpod [Workspaces](https://gitpod.io/workspaces) because you are limited to 4
+when using the [free plan](https://www.gitpod.io/pricing).__
 
 ## Problems
 
