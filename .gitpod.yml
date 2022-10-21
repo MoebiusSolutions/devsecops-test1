@@ -3,3 +3,5 @@ vscode:
   extensions:
     - DavidAnson.vscode-markdownlint
     - redhat.vscode-yaml
+    - golang.Go
+    - ms-vscode.makefile-tools 
